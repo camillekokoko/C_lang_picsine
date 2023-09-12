@@ -29,4 +29,13 @@ A series of coding exercises and projects that gradually increase in complexity.
 
 ## Usage
 
-Only use for reference
+Only use for reference. 
+[C_00](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_00_check)
+[C_01](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_01_check1)
+[C_02](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_02_check2)
+[C_03](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_03_check)
+[C_04](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_04_check)
+[C_05](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_05_check)
+[C_06](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_06_check)
+[C_07](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_07_check)
+[C_08](https://github.com/camillekokoko/C_lang_picsine/tree/main/C_08_check)
